@@ -1,0 +1,7 @@
+
+# ignora las carpetas que selecciono aca.
+
+node_modules/
+dist/
+docs-webpack/
+
